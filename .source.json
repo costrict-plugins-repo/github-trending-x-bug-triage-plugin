@@ -1,0 +1,15 @@
+{
+  "synced_from": {
+    "repo": "jeremylongshore/x-bug-triage-plugin",
+    "path": ".",
+    "branch": "main"
+  },
+  "last_sync": "2026-06-17T16:28:17.100Z",
+  "author": {
+    "name": "Jeremy Longshore",
+    "github": "jeremylongshore",
+    "email": "jeremy@intentsolutions.io"
+  },
+  "license": "MIT",
+  "files_synced": 70
+}
